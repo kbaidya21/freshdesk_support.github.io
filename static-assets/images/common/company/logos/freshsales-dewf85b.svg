@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+    <g fill="none" fill-rule="nonzero">
+        <path fill="#FFA800" d="M17.5 35C7.84 35 0 27.16 0 17.5S7.84 0 17.5 0h13.125A4.377 4.377 0 0 1 35 4.375V17.5C35 27.16 27.16 35 17.5 35z"/>
+        <g fill="#FFF" transform="translate(9.8 8.75)">
+            <circle cx="7.875" cy="3.43" r="3.43"/>
+            <path d="M.175 8.12l6.02 5.985V17.5h3.01v-3.395l6.02-5.985z"/>
+        </g>
+    </g>
+</svg>
